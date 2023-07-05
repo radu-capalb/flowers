@@ -9,4 +9,10 @@
             <ditaval href="asd.val"/>
         </profile>
     </context>
+    <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="Autumn_flowers-1688545544336" name="Autumn flowers">
+        <context idref="second_pub"/>
+        <output href="webhelp-output"/>
+        <publication id="webhelp" transtype="webhelp-responsive"/>
+    </deliverable>
 </project>
