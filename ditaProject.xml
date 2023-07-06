@@ -18,4 +18,9 @@
         <output href="webhelp-output"/>
         <publication id="webhelp" transtype="webhelp-responsive"/>
     </deliverable>
+    <deliverable id="Another_one-1688643881951" name="Another one">
+        <context idref="publication_with_map_with_spaces"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
 </project>
