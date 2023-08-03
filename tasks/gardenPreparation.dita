@@ -36,6 +36,9 @@
             <step>
                 <cmd>When dealing with <b>insects</b> and <b>diseases</b>, proper diagnosis of the
                     trouble is of primary importanceASD.BBB</cmd>
+                <info>
+                    <p/>
+                </info>
             </step>
         </steps>
     </taskbody>
