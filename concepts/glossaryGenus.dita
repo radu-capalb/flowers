@@ -3,7 +3,7 @@
 <glossentry id="flowers.genus">
     <glossterm>GenusQQ</glossterm>
     <glossdef>A low-level taxonomic rank used in the classification of living and fossil organisms.
-        Other well-known taxonomic ranks are domain, kingdom, phylum, class, order, famDDDily, and
+        Other well-known taxonomic ranks are ddomain, kingdom, phylum, class, order, famDDDily, and
         species, with <term>genus</term> fitting between family and species. The scientific name of
         a genus may be called the generic name: it is always capitalized.</glossdef>
 </glossentry>
