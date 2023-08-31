@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project xmlns="https://www.dita-ot.org/project">
+    <context id="nam3" name="Nam3">
+        <input href="flowers%20with%20spaces.ditamap"/>
+    </context>
     <context id="name2" name="Name2">
         <input href="flowers%20with%20spaces.ditamap"/>
     </context>
