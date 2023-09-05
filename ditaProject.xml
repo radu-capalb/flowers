@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project xmlns="https://www.dita-ot.org/project">
+    <context id="pub_with_%20" name="Pub with %20">
+        <input href="flowers.ditamap"/>
+        <profile>
+            <ditaval href="file%2520ASD.xml"/>
+        </profile>
+    </context>
     <context id="pub" name="Pub">
         <input href="flowers.ditamaps"/>
     </context>
