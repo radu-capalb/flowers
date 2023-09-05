@@ -6,9 +6,6 @@
             <ditaval href="file%2520ASD.xml"/>
         </profile>
     </context>
-    <context id="pub" name="Pub">
-        <input href="flowers.ditamaps"/>
-    </context>
     <context id="publication_with_map_with_spaces" name="Publication with map with spaces">
         <input href="flowers%20with%20spaces.ditamap"/>
     </context>
