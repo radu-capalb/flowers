@@ -3,4 +3,10 @@
     <context id="first_publication" name="Second publication">
         <input href="BOM-preamble.ditamap"/>
     </context>
+    <publication id="pdf" transtype="pdf-css-html5"/>
+    <deliverable id="Deliverable_1-1694175022986" name="Deliverable 1">
+        <context idref="first_publication"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
+    </deliverable>
 </project>
