@@ -3,9 +3,6 @@
     <context id="fifth_publication" name="Fifth publication">
         <input href="flowers%20with%20spaces.ditamap"/>
     </context>
-    <context id="fourth_publication" name="Fourth publicatio">
-        <input href="BOM-preamble.ditamap"/>
-    </context>
     <context id="first_publication" name="First publication">
         <input href="BOM-preamble.ditamap"/>
     </context>
