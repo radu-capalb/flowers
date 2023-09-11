@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project xmlns="https://www.dita-ot.org/project">
-    <context id="third_publication" name="Third publication">
+    <context id="third_publication" name="Third publicatio">
         <input href="BOM-preamble.ditamap"/>
     </context>
     <context id="second_publication" name="Second publication">
