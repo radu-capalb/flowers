@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project xmlns="https://www.dita-ot.org/project">
     <context id="3" name="3">
-        <input href="../flowers%20with%20spaces.ditamap"/>
+        <input href="../BOM-preamble.ditamap"/>
     </context>
     <context id="2" name="2">
         <input href="../flowers%20with%20spaces.ditamap"/>
