@@ -8,8 +8,5 @@
     </context>
     <context id="1" name="1">
         <input href="../BOM-preamble.ditamap"/>
-        <profile>
-            <ditaval href="../concepts/autumnFlowers.dita"/>
-        </profile>
     </context>
 </project>
