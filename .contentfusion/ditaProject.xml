@@ -9,9 +9,6 @@
     <context id="2" name="2">
         <input href="BOM-preamble.ditamap"/>
     </context>
-    <context id="1" name="1">
-        <input href="BOM-preamble.ditamap"/>
-    </context>
     <context id="2" name="2">
         <input href="BOM-preamble.ditamap"/>
     </context>
