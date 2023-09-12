@@ -3,9 +3,6 @@
     <context id="5" name="5">
         <input href="BOM-preamble.ditamap"/>
     </context>
-    <context id="4" name="4">
-        <input href="BOM-preamble.ditamap"/>
-    </context>
     <context id="2" name="2">
         <input href="BOM-preamble.ditamap"/>
     </context>
