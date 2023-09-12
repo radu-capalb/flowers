@@ -21,9 +21,6 @@
     <context id="2" name="2">
         <input href="BOM-preamble.ditamap"/>
     </context>
-    <context id="third_publication" name="Third publication">
-        <input href="BOM-preamble.ditamap"/>
-    </context>
     <context id="first_publication" name="First publication">
         <input href="BOM-preamble.ditamap"/>
     </context>
