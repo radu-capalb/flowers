@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project xmlns="https://www.dita-ot.org/project">
+    <context id="2" name="2">
+        <input href="../flowers%20with%20spaces.ditamap"/>
+        <profile>
+            <ditaval href="../topics/flowers/Screenshot%202023-03-06%20104744.png"/>
+        </profile>
+    </context>
     <context id="1" name="1">
         <input href="../BOM-preamble.ditamap"/>
         <profile>
