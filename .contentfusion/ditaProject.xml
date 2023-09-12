@@ -6,9 +6,6 @@
     <context id="2" name="2">
         <input href="BOM-preamble.ditamap"/>
     </context>
-    <context id="fourth_publication" name="Fourth publication">
-        <input href="BOM-preamble.ditamap"/>
-    </context>
     <context id="third_publication" name="Third publication">
         <input href="BOM-preamble.ditamap"/>
     </context>
