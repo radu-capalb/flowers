@@ -12,4 +12,10 @@
     <context id="1" name="1">
         <input href="../flowers%20with%20spaces.ditamap"/>
     </context>
+    <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="First_deliverable-1694604244634" name="First deliverable">
+        <context idref="4"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
 </project>
