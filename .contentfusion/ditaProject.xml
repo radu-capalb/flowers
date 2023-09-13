@@ -17,7 +17,7 @@
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <deliverable id="First_deliverable-1694604244634" name="First deliverable">
-        <context idref="4"/>
+        <context idref="pub"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
