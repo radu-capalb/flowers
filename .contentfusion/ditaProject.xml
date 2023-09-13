@@ -3,9 +3,6 @@
     <context id="first_publication" name="First publication">
         <input href="../flowers.ditamap"/>
     </context>
-    <context id="pub" name="Pub">
-        <input href="../flowers.ditamap"/>
-    </context>
     <context id="2" name="2">
         <input href="../flowers%20with%20spaces.ditamap"/>
     </context>
