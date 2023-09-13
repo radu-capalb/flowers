@@ -12,8 +12,5 @@
     <context id="2" name="2">
         <input href="../flowers%20with%20spaces.ditamap"/>
     </context>
-    <context id="1" name="1">
-        <input href="../flowers%20with%20spaces.ditamap"/>
-    </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
 </project>
