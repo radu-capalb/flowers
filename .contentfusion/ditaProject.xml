@@ -16,9 +16,4 @@
         <input href="../flowers%20with%20spaces.ditamap"/>
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
-    <deliverable id="First_deliverable-1694604244634" name="First deliverable">
-        <context idref="pub"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
-    </deliverable>
 </project>
