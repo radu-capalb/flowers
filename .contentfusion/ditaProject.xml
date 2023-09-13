@@ -12,4 +12,9 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
+    <deliverable id="Second-1694605844879" name="Second">
+        <context idref="second_publication_(map_with_spaces)"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
 </project>
