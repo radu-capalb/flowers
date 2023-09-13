@@ -6,8 +6,8 @@
     <context id="4" name="4">
         <input href="../flowers%20with%20spaces.ditamap"/>
     </context>
-    <context id="3" name="3">
-        <input href="../BOM-preamble.ditamap"/>
+    <context id="2" name="2">
+        <input href="../flowers%20with%20spaces.ditamap"/>
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
 </project>
