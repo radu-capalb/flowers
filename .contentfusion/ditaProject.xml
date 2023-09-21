@@ -3,9 +3,6 @@
     <context id="A0kyASeBrZ" name="First publication">
         <input href="../flowers.ditamap"/>
     </context>
-    <context id="ZICa2IT9zH" name="Another publication">
-        <input href="../BOM-preamble.ditamap"/>
-    </context>
     <context id="m552CH8xse" name="Second publication">
         <input href="../flowers.ditamap"/>
     </context>
