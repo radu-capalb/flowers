@@ -12,4 +12,9 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
+    <deliverable id="Second_deliverable-1695279346570" name="Second deliverable">
+        <context idref="LP4UDdfgI0"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
 </project>
