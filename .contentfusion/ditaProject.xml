@@ -10,9 +10,4 @@
         <input href="../flowers.ditamap"/>
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
-    <deliverable id="First_deliverable-1695282315807" name="First deliverable">
-        <context idref="0lVEjo7Mbt"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
-    </deliverable>
 </project>
