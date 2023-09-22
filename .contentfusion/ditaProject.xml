@@ -3,9 +3,6 @@
     <context id="tthlgZzSgQnZuja" name="Second publication">
         <input href="../flowers%20with%20spaces.ditamap"/>
     </context>
-    <context id="lDysUjnTVcBLWje" name="First publication">
-        <input href="../Learning%20Map.ditamap"/>
-    </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <deliverable id="Second_deliverable-1695284271657" name="Second deliverable">
         <context idref="m552CH8xse"/>
