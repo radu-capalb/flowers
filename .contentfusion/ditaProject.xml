@@ -7,4 +7,9 @@
         <input href="../flowers%20with%20spaces.ditamap"/>
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="Deliverable_for_first_publication-1695976296442" name="Deliverable for first publication">
+        <context idref="YmipkcfflFDUmPz"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
 </project>
