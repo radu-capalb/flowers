@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project xmlns="https://www.dita-ot.org/project">
+    <context id="yypzOyHZvWIIRXh" name="Test pub">
+        <input href="../flowers.ditamap"/>
+    </context>
     <context id="fMOnQQSUrYPNdUs" name="Second publication">
         <input href="../Learning%20Map.ditamap"/>
     </context>
