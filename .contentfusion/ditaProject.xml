@@ -14,8 +14,8 @@
     </deliverable>
     <deliverable id="Deliverable_for_first_publication_2-1695976317679" name="Deliverable for first publication 2">
         <context idref="YmipkcfflFDUmPz"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
     </deliverable>
     <deliverable id="Deliverable_for_second_publication-1695976338845" name="Deliverable for second publication">
         <context idref="fMOnQQSUrYPNdUs"/>
