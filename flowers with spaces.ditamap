@@ -3,7 +3,9 @@
 <map title="Growing Flowers">
   <topicref href="topics/introduction.dita"/>
   <topicref href="topics/care.dita">
-    <topicref href="tasks/pruning.dita"/>
+    <topicref href="tasks/pruning.dita">
+      <topicref href="tasks/my-topic.dita"/>
+    </topicref>
     <topicref href="tasks/gardenPreparation.dita"/>
   </topicref>
   <topicref href="topics/index.dita" collection-type="sequence">
