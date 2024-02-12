@@ -3,9 +3,6 @@
     <context id="yypzOyHZvWIIRXh" name="Test pub">
         <input href="../flowers.ditamap"/>
     </context>
-    <context id="fMOnQQSUrYPNdUs" name="Second publication">
-        <input href="../Learning%20Map.ditamap"/>
-    </context>
     <context id="YmipkcfflFDUmPz" name="First publication AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA">
         <input href="../flowers%20with%20spaces.ditamap"/>
     </context>
@@ -20,11 +17,6 @@
         <context idref="YmipkcfflFDUmPz"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
-    </deliverable>
-    <deliverable id="Deliverable_for_second_publication-1695976338845" name="Deliverable for second publication">
-        <context idref="fMOnQQSUrYPNdUs"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
     </deliverable>
     <deliverable id="Test_deliv-1698744790787" name="Test deliv">
         <context idref="yypzOyHZvWIIRXh"/>
