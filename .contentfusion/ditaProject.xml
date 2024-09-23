@@ -11,7 +11,9 @@
     <deliverable id="Deliverable_for_first_publication-1695976296442" name="Deliverable for first publication">
         <context idref="YmipkcfflFDUmPz"/>
         <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
+        <publication idref="webhelp">
+            <param name="webhelp.publishing.template" value="cf://templates/Oxygen"/>
+        </publication>
     </deliverable>
     <deliverable id="Deliverable_for_first_publication_2-1695976317679" name="Deliverable for first publication 2">
         <context idref="YmipkcfflFDUmPz"/>
