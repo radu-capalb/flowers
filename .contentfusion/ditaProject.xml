@@ -25,6 +25,8 @@
     <deliverable id="Test_deliv-1698744790787" name="Test deliv">
         <context idref="yypzOyHZvWIIRXh"/>
         <output href="pdf-output"/>
-        <publication idref="pdf"/>
+        <publication idref="pdf">
+            <param name="pdf.publishing.template" value="cf://templates/Oxygen"/>
+        </publication>
     </deliverable>
 </project>
