@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project xmlns="https://www.dita-ot.org/project">
+    <context id="publicatie" name="Publicatie3">
+        <input href="flowers%20with%20spaces.ditamap"/>
+        <profile>
+            <ditaval href="ditaProject.xml"/>
+        </profile>
+    </context>
+    <context id="publication" name="Publication">
+        <input href="flowers.ditamap"/>
+        <profile>
+            <ditaval href="topics/index.dita"/>
+        </profile>
+    </context>
+    <context id="pub_with_%20" name="Pub with %20">
+        <input href="file%2520ASD.xml"/>
+        <profile>
+            <ditaval href="file%2520ASD.xml"/>
+        </profile>
+    </context>
+    <context id="publication_with_map_with_spaces" name="Publication with map with spaces">
+        <input href="flowers%20with%20spaces.ditamap"/>
+    </context>
+    <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="Autumn_flowers-1688545544336" name="My first deliverable">
+        <context idref="publication_with_map_with_spaces"/>
+        <output href="webhelp-output"/>
+        <publication id="webhelp" transtype="webhelp-responsive"/>
+    </deliverable>
+    <deliverable id="Another_one-1688643881951" name="Another one">
+        <context idref="publication_with_map_with_spaces"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
+</project>
