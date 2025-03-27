@@ -3,25 +3,8 @@
     <context id="yypzOyHZvWIIRXh" name="Test pub">
         <input href="../flowers.ditamap"/>
     </context>
-    <context id="YmipkcfflFDUmPz" name="First publication AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA">
-        <input href="../flowers%20with%20spaces.ditamap"/>
-    </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
-    <deliverable id="Deliverable_for_first_publication-1695976296442" name="Deliverable for first publication">
-        <context idref="YmipkcfflFDUmPz"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp">
-            <param href="cf://templates/Oxygen" name="webhelp.publishing.template"/>
-        </publication>
-    </deliverable>
-    <deliverable id="Deliverable_for_first_publication_2-1695976317679" name="Deliverable for first publication 2">
-        <context idref="YmipkcfflFDUmPz"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf">
-            <param href="cf://templates/Oxygen" name="pdf.publishing.template"/>
-        </publication>
-    </deliverable>
     <deliverable id="Test_deliv-1698744790787" name="Test deliv">
         <context idref="yypzOyHZvWIIRXh"/>
         <output href="pdf-output"/>
